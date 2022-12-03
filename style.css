@@ -38,11 +38,20 @@
 
 #resultado{
     width: 207px;
-    background-color: white;
+    background-color: aliceblue;
     height: 30px;
     margin: 5px;
     font-size: 25px;
     color: black;
     text-align: right;
     padding: 5px;
+}
+
+
+footer{
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: rgba(0, 0, 0, 0.932);
+    color: aliceblue;
 }
